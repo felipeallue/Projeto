@@ -60,7 +60,7 @@ nav ul li a:hover{
     flex-direction:column;
     justify-content:center;
     align-items:center;
-    background-image: url(/projeto/img/OIP.jpg); background-size:cover; min-height: 100vh; background-position: center;background-position-y:60%;
+    background-image: url(/Forv/img/OIP.jpg); background-size:cover; min-height: 100vh; background-position: center;background-position-y:60%;
 }
 .info-top h1{
     text-align: center;
