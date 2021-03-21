@@ -6,7 +6,7 @@
     box-sizing: border-box;
 }
 body{
-    background-color: rgb(245, 245, 245)
+    background-color: rgb(255, 255, 255)
 }
 ul{
     list-style: none;
@@ -233,6 +233,7 @@ in.info-info .grid li p{
     flex: 1;
 }
 .cadastro button{
+    margin-bottom: 15px;
     padding: 15px;
     background-color: #3ec2d3;
     color: #fff;
